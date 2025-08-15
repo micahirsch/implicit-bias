@@ -1,0 +1,7 @@
+{
+    "models":["gemini-2.0-flash", "gpt-4o", "gpt-4o-mini", "gemini-2.0-flash-lite"],
+    "languages": ["english"], 
+    "temperatures": [0.0],
+    "n_uses_per_word": 200,
+    "with_or_without_none": ["without_none"]
+}
